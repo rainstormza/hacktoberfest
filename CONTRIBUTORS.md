@@ -7,7 +7,7 @@
 
 #### Name: [Egi Nugraha](https://github.com/eginugraha)
 - Place: Bandung, Jawa Barat, Indonesia
-- Bio: I Love Code and Design. 
+- Bio: I Love Code and Design.
 - GitHub: [Egi Nugraha](https://github.com/eginugraha)
 
 #### Name: [Faouzi Bouzar Amrouche](https://github.com/faouziamrouche)
@@ -1623,3 +1623,7 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Supakorn Thongtra](https://github.com/rainstormza)
+- Place: Bangkok, Thailand
+- Github: [Supakorn Thongtra] (https://github.com/rainstormza)
